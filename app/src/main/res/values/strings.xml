@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Nibedita_Test</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_information">Information</string>
+    <string name="title_activity_pre_preg">PrePreg</string>
+    <string name="title_activity_during_preg">DuringPreg</string>
+    <string name="title_activity_after_preg">AfterPreg</string>
+    <string name="title_activity_post_preg">PostPreg</string>
 </resources>

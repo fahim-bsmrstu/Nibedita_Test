@@ -18,6 +18,26 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Information"
+            android:label="@string/title_activity_information"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PrePreg"
+            android:label="@string/title_activity_pre_preg"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DuringPreg"
+            android:label="@string/title_activity_during_preg"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AfterPreg"
+            android:label="@string/title_activity_after_preg"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PostPreg"
+            android:label="@string/title_activity_post_preg"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
